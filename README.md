@@ -2,7 +2,7 @@ This repository contains `LabVIEW` projects for the `Data Acquisition and Proces
 
 # Heron - Triangle Area Calculator
 
-This [program](./subViProj/subVis/heron.vi) calculates the area of a triangle using **Heron's formula**.
+This [program](./heron/heronUseTest.vi) calculates the area of a triangle using **Heron's formula**.
 
 ## Formula
 The formula used for calculating the area of a triangle is as follows:
@@ -28,7 +28,7 @@ p = (a + b + c) / 2
 
 # Collatz Conjecture Calculator
 
-This [program](./subViProj/subVis/collatzSequence.vi) calculates the sequence described by the **Collatz conjecture** (also known as the **3n + 1 problem**).
+This [program](./collatzSequence/collatzSequence.vi) calculates the sequence described by the **Collatz conjecture** (also known as the **3n + 1 problem**).
 
 ## Description
 The Collatz conjecture sequence is calculated using the following rules:
